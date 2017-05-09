@@ -1,3 +1,14 @@
 /Python/.idea/
 /Python/__pycache__/
+
+
 /C/test.c
+
+
+# ====== ---- Netbeans ---- ======
+/Java/Siralamalar/nbproject/
+/Java/Siralamalar/build/
+/Java/Siralamalar/test
+/Java/Siralamalar/build.xml
+/Java/Siralamalar/manifest.mf
+# ====== ---- Netbeans ---- ======
